@@ -44,7 +44,7 @@ fr:
         apply: Appliquer
       opacity:
         tooltip: Opacité
-        header: Contrôle de l'opacité
+        header: Contrôle de l'opacitévvv
       timeline:
         tooltip: Temporalité
         header: Contrôle de la temporalité
